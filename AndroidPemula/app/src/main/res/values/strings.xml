@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="heroes_name">Monumen Yogyakarta</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="profile">PROFILE</string>
+    <string name="nama_diri">Firzandi Ahsan Dwi Styana</string>
+    <string name="id_diri">A015B4KY1530</string>
+    <string name="email_bangkit">A015B4KY1530@bangkit.academy</string>
+    <string-array name="data_name">
+        <item>Candi Prambanan</item>
+        <item>Malioboro</item>
+        <item>Obelix Sea View</item>
+        <item>Tugu Jogja</item>
+        <item>HeHa Sky View</item>
+        <item>Candi Borobudur</item>
+        <item>Pantai Drini</item>
+        <item>Obelix Hills</item>
+        <item>Kids Fun</item>
+        <item>Tebing Breksi</item>
+    </string-array>
+    <string-array name="descriptionlist">
+        <item>Candi Hindu dengan ornamen mengagumkan.</item>
+        <item>Jantung Kota Jogja penuh kehidupan.</item>
+        <item>Sunset terbaik di Obelix Sea.</item>
+        <item>Landmark Jogja penuh makna filosofis.</item>
+        <item>Tempat selfie dengan pemandangan langit.</item>
+        <item>Magnet wisata dengan jutaan pengunjung.</item>
+        <item>Pantai dengan karakter ganda unik.</item>
+        <item>Spot foto sunset dari ketinggian.</item>
+        <item>Rekreasi keluarga terpopuler di Jogja.</item>
+        <item>Bekas tambang berubah tempat wisata.</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Candi Prambanan dibangun pada abad ke-9. Menjulang setinggi 47 meter dengan ornamen yang mengagumkan, kecantikan candi Hindu ini tak tertandingi. Candi Prambanan terletak 17 km ke arah timur dari pusat Kota Jogja dan bisa dijangkau dengan bus Trans Jogja.</item>
+        <item>Malioboro adalah jantung Kota Jogja. Tak heran bila banyak penginapan murah dekat Malioboro, meskipun sekarang banyak hotel berbintang. Apa saja tempat wisata dan hotel dekat Malioboro? Temukan info lengkapnya di sini.</item>
+        <item>Obelix Sea View mudah dijangkau dari Kota Jogja karena hanya terletak di timur Pantai Parangtritis. Ini adalah tempat terbaik untuk merayakan sunset di Jogja.</item>
+        <item>Tugu Jogja memendam makna filosofis tentang semangat perlawanan atas penjajahan dan kini menjadi landmark yang sangat lekat dengan Kota Jogja. Ada juga tradisi memeluk atau mencium tugu ini ketika lulus kuliah.</item>
+        <item>HeHa Sky View sangat populer dan bisa dijangkau dalam 30 menit saja dari Kota Jogja. HeHa Sky View berisi tempat selfie, food stall, dan resto. Tempatnya sangat instagramable, banyak spot foto keren dengan pemandangan langit dan Kota Jogja dari ketinggian.</item>
+        <item>Dibangun pada abad ke-9, Candi Borobudur sekarang menjadi magnet yang mampu menarik jutaan wisatawan setiap tahun. Bagaimana cara agar bisa naik ke atas candi?</item>
+        <item>Sebuah pulau karang di bibir pantai membelah Pantai Drini menjadi dua bagian dengan karakter bertolak belakang. Sisi Timur yang tenang dan bagian Barat yang garang, membuat Pantai Drini menjadi sebuah pantai berkarakter ganda.</item>
+        <item>Obelix Hills adalah tempat wisata kekinian dengan pemandangan sunset dari ketinggian, resto, dan 30 spot foto. Obelix Hills bisa dijangkau dalam 1 jam dari Kota Jogja.</item>
+        <item>Kids Fun memang juaranya tempat rekreasi keluarga di Jogja. Bus-bus berisi rombongan study tour anak TK dan SD seringkali memenuhi area parkirnya yang luas.</item>
+        <item>Kehilangan fungsi sebagai tempat menambang batuan kapur, membuat kawasan Tebing Breksi di Sambirejo, Prambanan, malah ramai didatangi pengunjung segala umur. Siapa sangka, tempat yang dulunya tak banyak dilirik, sekarang menjadi tempat wisata unik.</item>
+    </string-array>
+    <string-array name="detail_alamat">
+        <item>Jl. Raya Solo - Yogyakarta No.16, Kranggan, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571</item>
+        <item>Sosromenduran, Gedong Tengen, Yogyakarta City, Special Region of Yogyakarta</item>
+        <item>Area Hutan, Giricahyo, Purwosari, Gunung Kidul Regency, Special Region of Yogyakarta 55872</item>
+        <item>Jl. Jend. Sudirman, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233</item>
+        <item>Jl. Dlingo-Patuk No.2</item>
+        <item>Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah</item>
+        <item>Desa Banjarejo, Kecamatan Tanjungsari, Kabupaten Gunung Kidul, Yogyakarta.</item>
+        <item>Klumprit, Blok I n 2, Klumprit II, Wukirharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572</item>
+        <item>Wonosari St No.KM 10, Asem Ngecis, Sitimulyo, Piyungan, Bantul Regency, Special Region of Yogyakarta 55792</item>
+        <item>Jl. Desa Lengkong, RT.02/RW.17, Gn. Sari, Sambirejo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572</item>
+    </string-array>
+    <string-array name="detail_notelp">
+        <item>(0274) 496401</item>
+        <item>-</item>
+        <item>0811-2947-652</item>
+        <item>-</item>
+        <item>(0274) 4357999</item>
+        <item>(0293) 788266</item>
+        <item>-</item>
+        <item>0811-2948-833</item>
+        <item>(0274) 4353435</item>
+        <item>(0274) 2853556</item>
+    </string-array>
+    <string-array name="detail_kordinat">
+        <item>7°45′8″S 110°29′30″E / 7.75222°S 110.49167°E</item>
+        <item>7.7926° S, 110.3658° E</item>
+        <item>8.0252° S, 110.3471° E</item>
+        <item>7.7829° S, 110.3671° E</item>
+        <item>7.8496° S, 110.4783° E</item>
+        <item>7.6079° S, 110.2038° E</item>
+        <item>8.1385° S, 110.5775° E</item>
+        <item>-</item>
+        <item>7.8279° S, 110.4413° E</item>
+        <item>7.7816° S, 110.5046° E</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/prambanan</item>
+        <item>@drawable/malioboro</item>
+        <item>@drawable/obelix</item>
+        <item>@drawable/tugu</item>
+        <item>@drawable/heha</item>
+        <item>@drawable/borobudor</item>
+        <item>@drawable/drini</item>
+        <item>@drawable/obelixhills</item>
+        <item>@drawable/kidsfun</item>
+        <item>@drawable/breksi</item>
+    </integer-array>
+</resources>
